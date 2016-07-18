@@ -201,6 +201,7 @@ GitHubService service = retrofit.create(GitHubService.class);
 ```
 ## URL定义方式
 Retrofit 2.0使用了新的URL定义方式。Base URL与@Url 不是简单的组合在一起而是和\< a href="...">的处理方式一致。用下面的几个例子阐明。
+
 ![](http://www.jcodecraeer.com/uploads/20150915/1442298671884948.png)
 ![](http://www.jcodecraeer.com/uploads/20150915/1442298673477609.png)
 ![](http://www.jcodecraeer.com/uploads/20150915/1442298675317445.png)
